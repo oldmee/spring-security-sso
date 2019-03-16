@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-security-sso-ui-2:war">
+    <output-path>$PROJECT_DIR$/spring-security-sso-ui-2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-security-sso-ui-2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-security-sso-ui-2-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-security-sso-ui-2:war exploded" />
+    </root>
+  </artifact>
+</component>
